@@ -1,0 +1,6 @@
+com.portfolio.mdn
+com.portfolio.mdn.Controller
+com.portfolio.mdn.Entity
+com.portfolio.mdn.Interface
+com.portfolio.mdn.Repository
+com.portfolio.mdn.Service
